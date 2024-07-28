@@ -35,7 +35,6 @@ You must create a communication program in the form of a client and a server.
 
 The bonus part includes additional features to enhance the project:
 
-- The server acknowledges each received message by sending a signal back to the client.
 - Support for Unicode characters.
 
 ### External Functions
